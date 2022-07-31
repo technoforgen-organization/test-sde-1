@@ -1,0 +1,8 @@
+TRANSCATIONFORM   ------CHILD COMPONENT
+|
+|
+|
+TRANSCATION LIST--------PARENT COMPONENT
+
+
+-----------(local storage db)
